@@ -23,7 +23,7 @@ function App() {
     else{
        console.log("color : ",bgColor)
        setToggle(0)
-       setBgColor("bg-blue");  //bg-blue
+       setBgColor("bg-green-500");  //bg-blue
        setImage(logo)
     }
     
